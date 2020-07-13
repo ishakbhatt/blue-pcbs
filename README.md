@@ -1,6 +1,4 @@
-# Eagle Personal
-
-Isha's Personal Board Designs:
+# BLUE | Biannual Launches for Undergraduate Engineers
 
 1. ADC/DAC to RPi: This board was initially for a small Payload, but I found an off-the-shelf equivalent compatible with the RPi form factor. Although customizing this board became pretty much obsolete, it will certainly help to refer back to my version if we ever need a chip with more external ADC/DAC interfacing. More than anything, this just became my practice board for getting through the entire board design process.
 
